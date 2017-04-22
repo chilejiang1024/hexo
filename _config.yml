@@ -4,10 +4,10 @@
 
 # Site
 title: chile's blog
-subtitle:
-description: OOOO
+subtitle: 本网站需要科学的访问 如果你看不了 那一定是你的打开方式出现了问题
+description:
 author: Chile
-language:
+language: zh-Hans
 timezone:
 
 # URL
@@ -65,8 +65,8 @@ pagination_dir: page
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
 # theme: landscape
-theme: cactus-dark
-
+# theme: cactus-dark
+theme: next
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
